@@ -1,6 +1,12 @@
 ### Hi there 👋  
 [![Me!](https://github-readme-stats.vercel.app/api?username=CptMeetKat&theme=github_dark_dimmed&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CptMeetKat&theme=github_dark_dimmed&show_icons=true&rank_icon=github" />
+</a>
+
 <!--
 **CptMeetKat/CptMeetKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
